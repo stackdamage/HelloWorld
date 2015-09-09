@@ -23,7 +23,7 @@ namespace WpfApplication2
         public MainWindow()
         {
             WpfAppTest.ViewModel.MyViewModel vm = new WpfAppTest.ViewModel.MyViewModel();
-            vm.LocalTimeString = "ss";
+            vm.LocalTimeString = "Hello, World!";
             InitializeComponent();
         }
     }
