@@ -27,7 +27,7 @@ namespace Demo
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("xxx, modified in GITHUB site. This is a local");
+            MessageBox.Show("xxx, modified in GITHUB site. This is a local\\\");
         }
     }
 }
