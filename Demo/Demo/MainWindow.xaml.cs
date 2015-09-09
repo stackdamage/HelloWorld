@@ -23,10 +23,12 @@ namespace Demo
         public MainWindow()
         {
             InitializeComponent();
+            //this is another place.
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            MessageBox.Show("呵呵呵，我在服务器上修改了代码");
             MessageBox.Show("这是我在branch-my-pc下修改的");
             MessageBox.Show("在branch-my-pc下再次进行了修改的");
         }
