@@ -7,7 +7,7 @@
     <ProjectGuid>{8C1CC443-4EC1-4770-8E78-6FD141049423}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Demo</RootNamespace>
+    <RootNamespace>DemoAPP</RootNamespace>
     <AssemblyName>Demo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
