@@ -23,11 +23,12 @@ namespace Demo
         public MainWindow()
         {
             InitializeComponent();
+            //this is another place.
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("xxx, modified in GITHUB site. This is a local\\\");
+            MessageBox.Show("呵呵呵，我在服务器上修改了代码");
         }
     }
 }
