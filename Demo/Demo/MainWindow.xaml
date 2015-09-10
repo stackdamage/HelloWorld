@@ -4,6 +4,6 @@
         xmlns:Custom="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon" x:Class="Demo.MainWindow"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button Content="Btn Name" HorizontalAlignment="Left" Margin="191,110,0,0" VerticalAlignment="Top" Width="112" Click="Button_Click" Height="85"/>
+        <Button Content="My lap top modiefied Name" HorizontalAlignment="Left" Margin="191,110,0,0" VerticalAlignment="Top" Width="112" Click="Button_Click" Height="85"/>
     </Grid>
 </Window>
